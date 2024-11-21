@@ -1,6 +1,6 @@
 ﻿# Satzung
 ## Makerspace Esslingen
-04.07.2021
+22.01.2023
 
 
 ## § 1 Name, Sitz, Geschäftsjahr
@@ -57,7 +57,7 @@ Die Organe des Vereins sind:
 ## § 7 Die Mitgliederversammlung
 1. Die Mitgliederversammlung besteht aus den Mitgliedern des Vereins.
 2. Stimmberechtigt ist jedes anwesende ordentliche Mitglied.
-3. Die ordentliche Mitgliederversammlung ist mindestens ein Mal pro Jahr vom Vorstand einzuberufen.
+3. Die ordentliche Mitgliederversammlung ist mindestens jedes zweite Jahr vom Vorstand einzuberufen.
 4. Eine außerordentliche Mitgliederversammlung kann vom Vorstand einberufen werden wenn die Geschäfte des Vereins dies erfordern.
 5. Bei einem schriftlichen Antrag von mindestens 20% der Mitglieder beruft der Vorstand unverzüglich eine Mitgliederversammlung ein.
 6. Die Einladung zur Mitgliederversammlung erfolgt in schriftlicher oder elektronischer Form, und muss mindestens 14 Tage vor der geplanten Versammlung versandt worden sein.
@@ -68,7 +68,7 @@ Die Organe des Vereins sind:
 11. Abstimmungen müssen geheim erfolgen, wenn mindestens ein Mitglied dies verlangt.
 12. Die Mitgliederversammlung wählt aus ihren Reihen eine protokollführende Person, die den Ablauf der Mitgliederversammlung schriftlich oder in Textform protokolliert.
 13. Die Mitgliederversammlung fasst Beschlüsse zu Zweckänderungen oder der Auflösung des Vereins mit einer Mehrheit von drei Vierteln der abgegebenen Stimmen.
-
+14. Die Mitgliederversammlung kann auch im Wege der elektronischen Kommunikation (z.B. per Telefon- oder Videokonferenz) oder in einer gemischten Versammlung aus Anwesenden und Videokonferenz/anderen Medien/Telefon durchgeführt werden. Ob die Mitgliederversammlung in einer Sitzung oder im Wege der elektronischen Kommunikation oder in einer gemischten Versammlung aus Anwesenden und Videokonferenz/anderen Medien/Telefon durchgeführt wird, entscheidet der Vorstand.
 
 ## § 8 Zuständigkeit der Mitgliederversammlung
 Die Mitgliederversammlung
